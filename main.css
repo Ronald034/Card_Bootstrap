@@ -1,0 +1,14 @@
+p{
+    position: relative;
+}
+
+.carta{
+    background: url(./image/bg-pattern-quotation.svg) no-repeat;
+    width: 150px;
+    height: 200px;
+    right: 10%;
+    position: absolute;
+}
+.bg-primary{
+    background-color: RGB(115, 63, 200) !important;
+}
